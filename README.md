@@ -8,8 +8,8 @@
 第二步：部署MetalLB
 
 参考文档：
-https://metallb.universe.tf/configuration/
-https://www.51cto.com/article/717556.html
+ - https://metallb.universe.tf/configuration
+ - https://www.51cto.com/article/717556.html
 
 ```
 kubectl apply -f https://raw.githubusercontent.com/metallb/metallb/v0.13.5/config/manifests/metallb-native.yaml
