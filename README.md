@@ -55,9 +55,11 @@ projectcontour   envoy             LoadBalancer   10.105.197.10   192.168.99.161
 ```
 
 第四步：创建Dockerfile
-创建两个文件夹  index-a 和 index-b
+注意：需要创建两个文件夹  index-a 和 index-b
+
 分别创建两个镜像 web-a  和  web-b
-以web-a为例
+
+下面以web-a为例
 
 创建index-a.html
 ```
